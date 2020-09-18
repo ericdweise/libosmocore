@@ -1,0 +1,11 @@
+--- test_bssmap_le_enc_dec
+[0] BSSMAP_LE_RESET: ok (encoded len = 6)
+[1] BSSMAP_LE_RESET_ACK: ok (encoded len = 3)
+[2] BSSMAP_LE_PERFORM_LOC_REQ: ok (encoded len = 41)
+[3] BSSMAP_LE_PERFORM_LOC_RESP: ok (encoded len = 13)
+[4] BSSMAP_LE_PERFORM_LOC_RESP: ok (encoded len = 6)
+[5] BSSMAP_LE_PERFORM_LOC_RESP: ok (encoded len = 7)
+[6] BSSMAP_LE_PERFORM_LOC_ABORT: ok (encoded len = 6)
+[7] BSSMAP_LE_CONN_ORIENTED_INFO: ok (encoded len = 8)
+[8] BSSMAP_LE_CONN_ORIENTED_INFO: ok (encoded len = 13)
+[9] BSSMAP_LE_CONN_ORIENTED_INFO: ok (encoded len = 10)
