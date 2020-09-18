@@ -92,6 +92,7 @@ nobase_include_HEADERS = \
                        osmocom/coding/gsm0503_interleaving.h \
                        osmocom/coding/gsm0503_coding.h \
                        osmocom/coding/gsm0503_amr_dtx.h \
+                       osmocom/gsm/bsslap.h \
                        osmocom/gsm/gad.h \
                        osmocom/gsm/gsm0808.h \
                        osmocom/gsm/gsm29205.h \
